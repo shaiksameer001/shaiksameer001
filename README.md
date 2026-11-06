@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**shaiksameer001/shaiksameer001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sameer 👋
 
-Here are some ideas to get you started:
+### B.Tech Data Science Graduate | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development, problem-solving
+and building practical applications.
+
+### 🛠️ Technical Skills
+
+- **Languages:** Java, Python, JavaScript
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js
+- **Database:** MongoDB, SQL
+- **Core Concepts:** OOP, Data Structures and Algorithms
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Projects
+
+- MERN Stack Development Projects
+- CRUD Applications
+- Java Programming Practice
+- DSA Practice Programs
+
+### 📚 Currently Learning
+
+- Java Programming
+- Data Structures and Algorithms
+- Problem Solving
+- Full-Stack Development
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/shaiksameer001
